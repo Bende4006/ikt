@@ -2,8 +2,12 @@ body{
     background-color:antiquewhite;
 }
 
-#data{
+#kozep{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+#adattabla{
+    margin-left: auto;
+    margin-right: auto;
 }
